@@ -1,4 +1,4 @@
-#The REDucers [Jawadul Kadir and Michael Ruvinshteyn]
+#The REDucers [Jawadul Kadir, Michael Ruvinshteyn]
 #SoftDev2 pd07
 #K18 -- Reductio ad Absurdum
 #2018 - 04 - 30
